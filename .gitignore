@@ -1,3 +1,8 @@
+not_sorted
+sorted
+.DS_Store
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
